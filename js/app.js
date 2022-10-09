@@ -65,7 +65,7 @@ window.addEventListener("DOMContentLoaded", () => {
       <div class="text">turkey</div>
       </div>
       <div class="box">
-      <img src="picture/europe.png" alt="" />
+      <img src="picture/Europe.png" alt="" />
       <div class="text">europa</div>
       </div>
     </div>
