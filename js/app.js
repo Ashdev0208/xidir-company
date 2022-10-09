@@ -65,7 +65,7 @@ window.addEventListener("DOMContentLoaded", () => {
       <div class="text">turkey</div>
       </div>
       <div class="box">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Feurope-flag&psig=AOvVaw0iOr10Ln6nw7owzEm60ozn&ust=1665383168599000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKj_3vPB0voCFQAAAAAdAAAAABAJ" alt="" />
+      <img src="picture/Europe.png" alt="" />
       <div class="text">europa</div>
       </div>
     </div>
