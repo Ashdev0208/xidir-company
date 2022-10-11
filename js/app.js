@@ -84,7 +84,7 @@ window.addEventListener("DOMContentLoaded", () => {
         whatsapp: <a class="link" href="https://api.whatsapp.com/send?phone=998912998479">++998 99 4740055 / +998912998479
         </a><br />
         phone number: <a class="link" href="tel:998912998479">+998 99 4740055 / +998912998479</a><br />
-        telegram: <a class="link" href="https://t.me/998912998479">+998912998479</a>
+        telegram: <a class="link" href="https://t.me/998912998479">+998 99 4740055 / +998912998479</a>
         </div>
     `,
     ];
