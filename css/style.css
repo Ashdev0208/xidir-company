@@ -7,8 +7,8 @@
 }
 
 body {
-  overflow: hidden;
-  background: #000;
+  overflow: hidden; 
+  background: rgb(0, 0, 0);
 }
 
 .col-6:nth-child(1) {
@@ -21,6 +21,7 @@ body {
 
 .col-6 img {
   width: 90%;
+  object-fit: cover;
 }
 
 .container {
@@ -64,7 +65,10 @@ a {
 
 .heading-elements {
   background: rgb(0, 0, 0);
-  padding: 20px 0;
+  height: 12vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .logo a img {
@@ -132,7 +136,7 @@ a {
 
 .banner {
   position: relative;
-  height: 80vh;
+  height: 88vh;
   width: 100%;
 }
 
@@ -208,7 +212,7 @@ a {
 
 .right-side {
   position: absolute;
-  right: 10%;
+  right: 2%;
   top: 10%;
   width: 15px;
   padding: 15px 30px;
@@ -233,21 +237,6 @@ a {
 }
 .tabs .btn-lower{
   position: relative;
-}
-
-.footer-elements {
-  padding: 20px;
-  background: #000;
-}
-
-.footer-elements .text {
-  width: 50%;
-  font-size: 12px;
-}
-
-.footer-elements .text:nth-child(1) {
-  text-align: right;
-  transform: translateX(-5%);
 }
 
 .modal {
@@ -475,27 +464,3 @@ i {
   }
 }
 
-@media screen and (max-height: 750px) {
-  .banner {
-    height: 70vh;
-  }
-  .right-side {
-    line-height: 20px;
-  }
-  .btn-lower {
-    top: 70%;
-  }
-  .information {
-    top: 20px;
-  }
-  .right-side {
-    top: 20px;
-  }
-  .card {
-    padding: 15px;
-  }
-  .productsImg img {
-    width: 130px;
-    height: 130px;
-  }
-}
