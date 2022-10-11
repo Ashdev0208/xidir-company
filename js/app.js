@@ -42,11 +42,10 @@ window.addEventListener("DOMContentLoaded", () => {
     <div class="row ai-c">
     <div class="col-6"><img src="picture/boss.jpg" alt="" /></div>
     <div class="col-6">
-    <div class="title primary">MAVLONOV XIDIR MAXMATMURATOVICH</div>
+    <div class="title primary">MAVLONOV KHIDIR MAKHMATMURATOVICH</div>
     <br />
     <br />
-    <div class="text" >Direktor, 1979-yil, 29-sentyabrda tugilgan.
-    Oliy ma'lumotli, 2001 vil Samarqand Davlat Universitetining iqtisodiyot fakultetini tamomlagan</div></div>
+    <div class="text" >Director, born on September 26, 1979. He has a higher education,graduated from the Faculty of Economics of Samarkand State University in 2001</div></div>
     </div>
     `,
       `
@@ -66,7 +65,7 @@ window.addEventListener("DOMContentLoaded", () => {
       </div>
       <div class="box">
       <img src="picture/Europe.png" alt="" />
-      <div class="text">europa</div>
+      <div class="text">Europa</div>
       </div>
     </div>
     `,
@@ -75,17 +74,16 @@ window.addEventListener("DOMContentLoaded", () => {
         “XIDIR” FERMER XO'JALIGI <br /><br />
         “XIDIR” FARM ENTERPRISE <br />
         <br />
-        Direktor:
-        MAVLONOV XIDIR MAXMATMURATOVICH
+        Director: 
+        MAVLONOV KHIDIR MAKHMATMURATOVICH
+
         <br />
         <br />
-        ADRES:
-        Samarqand viloyati, Qo'shrabot tumani, Jush QFY
-        Katta Oqmachit mahallasi, Oqmachit qishlog'i, 85-uy<br />
-        TEL: +998 99 4740055 <br />
+        ADDRESS: Tashkent region, Boka district, Turon, O. Yoldoshev f/u, Yangiabad village, Qurilish street 61<br />
         EMAIL: <a class="link" href="mailto:xidir_79_fx@mail.ru">xidir_79_fx@mail.ru</a><br />
-        whatsapp: <a class="link" href="https://api.whatsapp.com/send?phone=998912998479">+998912998479</a><br />
-        phone number: <a class="link" href="tel:998912998479">+998912998479</a><br />
+        whatsapp: <a class="link" href="https://api.whatsapp.com/send?phone=998912998479">++998 99 4740055 / +998912998479
+        </a><br />
+        phone number: <a class="link" href="tel:998912998479">+998 99 4740055 / +998912998479</a><br />
         telegram: <a class="link" href="https://t.me/998912998479">+998912998479</a>
         </div>
     `,
