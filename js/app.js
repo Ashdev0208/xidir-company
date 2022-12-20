@@ -49,7 +49,7 @@ window.addEventListener("DOMContentLoaded", () => {
     </div>
     `,
       `
-    <div class="title primary">WE EXPORT ED TO THESE COUNTRIES</div>
+    <div class="title primary">WE EXPORTED TO THESE COUNTRIES</div>
     <div class="cooperation">
       <div class="box">
       <img src="picture/china.jpg" alt="" />
